@@ -117,7 +117,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Create a Fénix application with a Redirect Url of `http://localhost:3000/` and a Scope of `Informações` at [https://fenix.tecnico.ulisboa.pt/personal/external-applications/#/applications](https://fenix.tecnico.ulisboa.pt/personal/external-applications/#/applications)
+1. Accept the API Terms for the Fénix API at [https://fenix.tecnico.ulisboa.pt/personal/external-applications/api-service-agreement](https://fenix.tecnico.ulisboa.pt/personal/external-applications/api-service-agreement) and then create a Fénix application with a Redirect Url of `http://localhost:3000/` and a Scope of `Informações` at [https://fenix.tecnico.ulisboa.pt/personal/external-applications/#/applications](https://fenix.tecnico.ulisboa.pt/personal/external-applications/#/applications)
 2. Create a PostgreSQL database
    ```sh
    sudo -i -u postgres
